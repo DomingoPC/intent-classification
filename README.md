@@ -23,7 +23,7 @@ Data preprocessing involves:
 To classify user input into predefined intent categories with high accuracy. Key goals include:
 - Building and evaluating **machine learning models** for classification.
 - Analyzing the impact of **text preprocessing** techniques on performance.
-- Comparing the results of various **algorithms** like SVM, Naive Bayes, and Neural Networks.
+- Comparing the results of various **algorithms** like Naive Bayes and TF-IDF.
 
 ---
 
